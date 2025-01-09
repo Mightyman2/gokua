@@ -4,7 +4,7 @@ Extension/Devtools code execution
 ## How to use
 ```sh
 $ git clone https://github.com/MunyDev/rigtools-v2 
-$ cd rigtools
+$ cd rigtools-v2
 $ npm i
 # Create a file named `server_config.json`
 # Then paste in `{"updater_url":"localhost:8080"}` (Or whatever your websocket URL is)
